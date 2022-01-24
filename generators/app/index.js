@@ -17,7 +17,7 @@ class GeneratorReact extends Generator {
     super(...args);
 
     this.option('verbose', {
-      desc: 'Turns on verbose logging',
+      desc: 'Turns on verbose loging',
       alias: 'v',
       type: Boolean,
       default: false
